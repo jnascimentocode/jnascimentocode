@@ -1,7 +1,7 @@
                                                                                                                                    
 ##
 
-                                    Olá! Meu nome é Jean e sou Desenvolvedor Python Júnior procurando estágio na área de DEV!
+                      Olá! Meu nome é Jean e sou Desenvolvedor Python Júnior procurando estágio na área de DEV!
 
 
 ##
