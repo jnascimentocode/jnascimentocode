@@ -1,10 +1,8 @@
                                                                                                                                    
 ##
 
-                                    Olá! Meu nome é Jean e sou Desenvolvedor Python Júnior!
+                                    Olá! Meu nome é Jean e sou Desenvolvedor Python Júnior procurando estágio na área de DEV!
 
-                                  - 🔭 Procuro estágio/trainee ou mentoria na area de desenvolvimento
-                                  - 🌱 Atualmente estou estudando REST API com Flask
 
 ##
 
