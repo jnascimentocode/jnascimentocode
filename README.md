@@ -1,9 +1,7 @@
-                                                                                                                                   
-##
- <p align="center">Olá! Meu nome é Jean, tenho 32 anos e sou analista aspirante a desenvolvedor!</p>
+                                                                                                                                  
+ ##  Olá! Meu nome é Jean, tenho 32 anos e sou analista aspirante a desenvolvedor!
 
 
-##
 <div align="center">
   <a href="https://github.com/jnascimenntocode">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=jnascimentocode&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
