@@ -1,7 +1,6 @@
                                                                                                                                    
 ##
-
-                      Olá! Meu nome é Jean e sou Desenvolvedor Python Júnior procurando estágio na área de DEV!
+ <p align="center">Olá! Meu nome é Jean, tenho 32 anos e sou analista aspirante a desenvolvedor!</p>
 
 
 ##
