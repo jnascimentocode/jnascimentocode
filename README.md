@@ -1,5 +1,5 @@
                                                                                                                                   
-                                  👨‍💻 Olá! Meu nome é Jean e sou analista aspirante a desenvolvedor! 👨‍💻
+👨‍💻 Olá! Meu nome é Jean e sou analista aspirante a desenvolvedor! 👨‍💻
  
  ##
  
