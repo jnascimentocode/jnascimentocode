@@ -1,36 +1,56 @@
-                                                                                                                                  
-👨‍💻 Olá! Meu nome é Jean e sou analista de dados e aspirante a desenvolvedor! 👨‍💻
- 
- ##
-GitHub Status:
+<h1 align="left">Jean Nascimento</h1>
+<p> Bem vindo ao meu perfil GitHub 👋
+  
+## Olá, Devs e Analistas!!
 
-![Snake animation](https://github.com/jnascimentocode/jnascimentocode/blob/output/github-contribution-grid-snake.svg)
-
-<div align="center">
-  <a href="https://github.com/jnascimentocode">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=jnascimentocode&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnascimentocode&layout=compact&langs_count=7&theme=dark"/>
-</div>                                                                                                                                  
- 
-##
-Tecnologias e ferramentas:
-<div style="display: inline_block"><br>
-  <img align="center" alt="Jean-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Jean-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" >
-  <img align="center" alt="Jean-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" >
-  <img align="center" alt="Jean-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> 
-  <img align="center" alt="Jean-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-  <img align="center" alt="Jean-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />                                                                                                                               
+Tenho 32 anos, sou brasileiro e moro em Itu-SP e sou apaixonado por tecnologia e games! Sou formado em ADS e estou cursando MBA de Gestão de Projetos Empresariais.
+Estou em um momento de transição de carreira, portanto, estudando para ser um Analista de Dados.
+  
+<img width="200px" align="right" src="https://user-images.githubusercontent.com/95966908/154860602-f9724c72-e923-4a97-835b-dd7c7dc5cd26.png">
+  
+### 🖥️ Tecnologias e Ferramentas: 
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "Python"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" title = "VsCode"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
+  
+</br>
+</br>
+<div display="inline-block">
+ <p align="left">📚 Atualmente estudando SQL</p>
+ <p align="left">🎮🎞🍲 Gosto muito de filmes, games, cozinhar e tenho uma paixão por leitura.</p>
 </div>
-                                                                                                                                   
 
- ##  
-<p>Como me encontrar:</p>
-<div> 
+##
+
+### 🖥️ Alguns dos meus Projetos em Análise de dados: 
+Data| Projeto | Linguagem/Ferramenta | Título 
+:---: | :---: |:---: |:---: |
+16/01/2022 | [Seazone](https://github.com/jnascimentocode/desafio-data-science) | Python/Pandas/PlotlyExpress | Desafio Data Science Seazone
+19/01/2022 | [Pokedex](https://github.com/jnascimentocode/analise-pokedex)|  Python/Pandas/PlotlyExpress | Pokémon - Analisando a Pokedex
+09/02/2022 |[Webscraping Alura Motors](https://github.com/jnascimentocode/alura-projeto-webscraping) | Python/Pandas/BeautifulSoup | Webscraping Alura Motors
+19/02/2022 | [Desafio BI ALURA](https://github.com/jnascimentocode/AluraChallengeBI) | Power BI | AluraChallengeBI
+
+##
+### ✉ Como me encontrar:
+<div>   
   <a href="https://www.instagram.com/jean_suman/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:jean.suman@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jeanfelipenascimento/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
+
+##
+### 💹 GitHub Stats:
+<div>
+  <a href="https://github.com/jnascimentocode">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=jnascimentocode&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnascimentocode&layout=compact&langs_count=7&theme=dark"/>
+</div>   
+
+</p>
   
   
