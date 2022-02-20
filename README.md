@@ -10,13 +10,16 @@ Estou em um momento de transição de carreira, portanto, estudando para ser um 
   
 ### 🖥️ Tecnologias e Ferramentas: 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "Python"/></code>
+<code><img width="40px" src="https://user-images.githubusercontent.com/95966908/154862938-254348e1-4291-448c-95ba-2daba1b33fb9.png" title = "Excel"/></code>
+<code><img width="40px" src="https://user-images.githubusercontent.com/95966908/154862894-f215a9ce-9bcf-4f6e-ab59-43e1b8163431.png" title = "Power BI"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" title = "VsCode"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
-  
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title = "PostgreSQL"/></code>
+
 </br>
 </br>
 <div display="inline-block">
