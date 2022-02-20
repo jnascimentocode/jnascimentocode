@@ -2,13 +2,18 @@
 👨‍💻 Olá! Meu nome é Jean e sou analista de dados e aspirante a desenvolvedor! 👨‍💻
  
  ##
- 
+GitHub Status:
+
+![Snake animation](https://github.com/jnascimentocode/jnascimentocode/blob/output/github-contribution-grid-snake.svg)
+
 <div align="center">
   <a href="https://github.com/jnascimentocode">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=jnascimentocode&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnascimentocode&layout=compact&langs_count=7&theme=dark"/>
 </div>                                                                                                                                  
  
+##
+Tecnologias e ferramentas:
 <div style="display: inline_block"><br>
   <img align="center" alt="Jean-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Jean-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" >
@@ -18,8 +23,9 @@
   <img align="center" alt="Jean-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />                                                                                                                               
 </div>
                                                                                                                                    
-##
-                                                                                                                                                    
+
+ ##  
+<p>Como me encontrar:</p>
 <div> 
   <a href="https://www.instagram.com/jean_suman/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:jean.suman@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
