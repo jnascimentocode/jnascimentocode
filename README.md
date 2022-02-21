@@ -34,7 +34,6 @@ Data| Projeto | Linguagem/Ferramenta | Título
 :---: | :---: |:---: |:---: |
 16/01/2022 | [Seazone](https://github.com/jnascimentocode/desafio-data-science) | Python/Pandas/PlotlyExpress | Desafio Data Science Seazone
 19/01/2022 | [Pokedex](https://github.com/jnascimentocode/analise-pokedex)|  Python/Pandas/PlotlyExpress | Pokémon - Analisando a Pokedex
-09/02/2022 |[Webscraping Alura Motors](https://github.com/jnascimentocode/alura-projeto-webscraping) | Python/Pandas/BeautifulSoup | Webscraping Alura Motors
 19/02/2022 | [Desafio BI ALURA](https://github.com/jnascimentocode/AluraChallengeBI) | Power BI | AluraChallengeBI
 
 ##
