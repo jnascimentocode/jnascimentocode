@@ -31,7 +31,7 @@ Estou em um momento de transição de carreira, portanto, estudando para ser um 
 ### 🖥️ Alguns dos meus Projetos em Análise de dados: 
 Data| Projeto | Linguagem/Ferramenta | Título 
 :---: | :---: |:---: |:---: |
-16/01/2022 | [Seazone](https://github.com/jnascimentocode/desafio-data-science) | Python/Pandas/PlotlyExpress | Desafio Data Science Seazone
+16/01/2022 | [Seazone](https://github.com/jnascimentocode/desafio-data-science) | Python/Pandas/PlotlyExpress | Desafio Data Science - Airbnb
 19/01/2022 | [Pokedex](https://github.com/jnascimentocode/analise-pokedex)|  Python/Pandas/PlotlyExpress | Pokémon - Analisando a Pokedex
 19/02/2022 | [Desafio BI ALURA](https://github.com/jnascimentocode/AluraChallengeBI) | Power BI | AluraChallengeBI
 
