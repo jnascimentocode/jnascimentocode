@@ -35,6 +35,7 @@ Projeto | Linguagem/Ferramenta | Título
 [Pokedex](https://github.com/jnascimentocode/analise-pokedex)|  Python/Pandas/PlotlyExpress | Pokémon - Analisando a Pokedex
 [Desafio BI ALURA S1](https://github.com/jnascimentocode/AluraChallengeBI) | Power BI | AluraChallengeBI - Alura Filmes IMDB
 [Desafio BI ALURA S2](https://github.com/jnascimentocode/Alura-Foods) | Power BI | AluraChallengeBI - Alura Foods
+[Extração de dados API OData ](https://github.com/jnascimentocode/Cota-o-Dolar-PBI-com-API) | Power BI | Cotação do Dolar com atualização em tempo Real
 
 ##
 ### ✉ Como me encontrar:
