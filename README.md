@@ -33,7 +33,8 @@ Projeto | Linguagem/Ferramenta | Título
  :---: |:---: |:---: |
 [Seazone](https://github.com/jnascimentocode/desafio-data-science) | Python/Pandas/PlotlyExpress | Desafio Data Science - Airbnb
 [Pokedex](https://github.com/jnascimentocode/analise-pokedex)|  Python/Pandas/PlotlyExpress | Pokémon - Analisando a Pokedex
-[Desafio BI ALURA](https://github.com/jnascimentocode/AluraChallengeBI) | Power BI | AluraChallengeBI - Alura Filmes IMDB
+[Desafio BI ALURA S1](https://github.com/jnascimentocode/AluraChallengeBI) | Power BI | AluraChallengeBI - Alura Filmes IMDB
+[Desafio BI ALURA S2](https://github.com/jnascimentocode/Alura-Foods) | Power BI | AluraChallengeBI - Alura Foods
 
 ##
 ### ✉ Como me encontrar:
