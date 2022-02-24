@@ -12,7 +12,7 @@ Estou em um momento de transição de carreira, portanto, estudando para ser um 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "Python"/></code>
 <code><img width="40px" src="https://user-images.githubusercontent.com/95966908/154862938-254348e1-4291-448c-95ba-2daba1b33fb9.png" title = "Excel"/></code>
 <code><img width="40px" src="https://user-images.githubusercontent.com/95966908/154862894-f215a9ce-9bcf-4f6e-ab59-43e1b8163431.png" title = "Power BI"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title = "SQLSERVER"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" title = "VsCode"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
@@ -35,7 +35,9 @@ Projeto | Linguagem/Ferramenta | Título
 [Pokedex](https://github.com/jnascimentocode/analise-pokedex)|  Python/Pandas/PlotlyExpress | Pokémon - Analisando a Pokedex
 [Desafio BI ALURA S1](https://github.com/jnascimentocode/AluraChallengeBI) | Power BI | AluraChallengeBI - Alura Filmes IMDB
 [Desafio BI ALURA S2](https://github.com/jnascimentocode/Alura-Foods) | Power BI | AluraChallengeBI - Alura Foods
-[Extração de dados API OData ](https://github.com/jnascimentocode/Cota-o-Dolar-PBI-com-API) | Power BI | Cotação do Dolar com atualização em tempo Real
+[Extração de dados API OData ](https://github.com/jnascimentocode/Cota-o-Dolar-PBI-com-API) | Power BI | Cotação do Dolar com atualização via API
+[Teste de Conexão Excel+SQL+PBI](https://github.com/jnascimentocode/SellOut-SQL-PBI) | Excel, SQL Server, Power BI | Dash SellOut Empresa Fictícia
+
 
 ##
 ### ✉ Como me encontrar:
