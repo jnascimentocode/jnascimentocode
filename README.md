@@ -37,6 +37,8 @@ Projeto | Linguagem/Ferramenta | Título
 [Desafio BI ALURA S2](https://github.com/jnascimentocode/Alura-Foods) | Power BI | AluraChallengeBI - Alura Foods
 [Extração de dados API OData ](https://github.com/jnascimentocode/Cota-o-Dolar-PBI-com-API) | Power BI | Cotação do Dolar com atualização via API
 [Teste de Conexão Excel+SQL+PBI](https://github.com/jnascimentocode/SellOut-SQL-PBI) | Excel, SQL Server, Power BI | Dash SellOut Empresa Fictícia
+[Dashboard com Power Pivot](https://github.com/jnascimentocode/DashBoard_Vendas) | Excel, Power Query, Power Pivot | DashBoard Vendas Empresa Fictícia
+
 
 
 ##
