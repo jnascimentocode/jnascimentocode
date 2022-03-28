@@ -3,7 +3,7 @@
   
 ## Olá, Devs e Analistas!!
 
-Tenho 32 anos, sou brasileiro e moro em Itu-SP e sou apaixonado por tecnologia e games! Sou formado em ADS e estou cursando MBA de Gestão de Projetos Empresariais.
+Tenho 33 anos, sou brasileiro e moro em Itu-SP e sou apaixonado por tecnologia e games! Sou formado em ADS e com MBA de Gestão de Projetos Empresariais.
 Estou em um momento de transição de carreira, portanto, estudando para ser um Analista de Dados.
   
 <img width="200px" align="right" src="https://user-images.githubusercontent.com/95966908/154860602-f9724c72-e923-4a97-835b-dd7c7dc5cd26.png">
