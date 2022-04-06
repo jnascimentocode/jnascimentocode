@@ -22,7 +22,7 @@ Trabalho como Analista de Dados Jr.
 </br>
 </br>
 <div display="inline-block">
- <p align="left">📚 Atualmente estudando SQL</p>
+ <p align="left">📚 Atualmente estudando SQL Server</p>
  <p align="left">🎮🎞🍲 Gosto muito de filmes, games, cozinhar e tenho uma paixão por leitura.</p>
 </div>
 
