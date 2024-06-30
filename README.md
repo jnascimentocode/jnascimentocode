@@ -3,8 +3,8 @@
   
 ## Olá, Devs e Analistas!!
 
-Tenho 33 anos, sou brasileiro e moro em Itu-SP e sou apaixonado por tecnologia e games! Sou formado em TADS e com MBA de Gestão de Projetos Empresariais.
-Trabalho como Analista de Dados Jr.
+Tenho 35 anos, sou brasileiro e moro em Itu-SP e sou apaixonado por tecnologia! Sou formado em TADS e com MBA de Gestão de Projetos Empresariais.
+Trabalho como Analista de Dados.
   
 <img width="200px" align="right" src="https://user-images.githubusercontent.com/95966908/154860602-f9724c72-e923-4a97-835b-dd7c7dc5cd26.png">
   
@@ -23,7 +23,7 @@ Trabalho como Analista de Dados Jr.
 </br>
 <div display="inline-block">
  <p align="left">📚 Atualmente estudando Data Science</p>
- <p align="left">🎮🎞🍲 Gosto muito de filmes, games, cozinhar e tenho uma paixão por leitura.</p>
+ <p align="left">🎮🎞🍲 Gosto muito de filmes, games, cozinhar e tenho uma paixão por animais!</p>
 </div>
 
 ##
@@ -31,13 +31,14 @@ Trabalho como Analista de Dados Jr.
 ### 🖥️ Alguns dos meus Projetos em Análise de dados: 
 Projeto | Linguagem/Ferramenta | Título 
  :---: |:---: |:---: |
-[Seazone](https://github.com/jnascimentocode/desafio-data-science) | Python/Pandas/PlotlyExpress | Desafio Data Science - Airbnb
-[Dashboard Filmes](https://github.com/jnascimentocode/AluraChallengeBI) | Power BI | AluraChallengeBI - Alura Filmes IMDB
-[Dashboard Restaurantes](https://github.com/jnascimentocode/Alura-Foods) | Power BI | AluraChallengeBI - Alura Foods
-[Dashboard Cotação Dolar](https://github.com/jnascimentocode/Cota-o-Dolar-PBI-com-API) | Power BI | Cotação do Dolar com atualização via API
-[Dashboard Sellout](https://github.com/jnascimentocode/SellOut-SQL-PBI) | Excel, SQL Server, Power BI | Dash SellOut Empresa Fictícia
-[Dashboard Vendas no Excel](https://github.com/jnascimentocode/DashBoard_Vendas) | Excel, Power Query, Power Pivot | DashBoard Vendas Empresa Fictícia
-[Dashboard Vendas](https://github.com/jnascimentocode/Dashboard-Vendas-Excel) | Excel, Power Query, Power Pivot | DashBoard Vendas Empresa de Celulares
+
+[Dashboard Cotação Dolar](https://github.com/jnascimentocode/Cota-o-Dolar-PBI-com-API) | Power BI |
+[Dashboard Sellout](https://github.com/jnascimentocode/SellOut-SQL-PBI) | Excel, SQL Server, Power BI |
+[Dashboard Vendas no Excel](https://github.com/jnascimentocode/DashBoard_Vendas) | Excel, Power Query, Power Pivot |
+[Dashboard Vendas](https://github.com/jnascimentocode/Dashboard-Vendas-Excel) | Excel, Power Query, Power Pivot |
+[Seazone](https://github.com/jnascimentocode/desafio-data-science) | Python/Pandas/PlotlyExpress |
+[Dashboard Filmes](https://github.com/jnascimentocode/AluraChallengeBI) | Power BI |
+[Dashboard Restaurantes](https://github.com/jnascimentocode/Alura-Foods) | Power BI | 
 
 
 ##
