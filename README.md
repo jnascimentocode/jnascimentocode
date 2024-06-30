@@ -29,16 +29,16 @@ Trabalho como Analista de Dados.
 ##
 
 ### 🖥️ Alguns dos meus Projetos em Análise de dados: 
-Projeto | Linguagem/Ferramenta | Título 
+Projeto | Linguagem/Ferramenta
  :---: |:---: |:---: |
 
-[Dashboard Cotação Dolar](https://github.com/jnascimentocode/Cota-o-Dolar-PBI-com-API) | Power BI |
-[Dashboard Sellout](https://github.com/jnascimentocode/SellOut-SQL-PBI) | Excel, SQL Server, Power BI |
-[Dashboard Vendas no Excel](https://github.com/jnascimentocode/DashBoard_Vendas) | Excel, Power Query, Power Pivot |
-[Dashboard Vendas](https://github.com/jnascimentocode/Dashboard-Vendas-Excel) | Excel, Power Query, Power Pivot |
-[Seazone](https://github.com/jnascimentocode/desafio-data-science) | Python/Pandas/PlotlyExpress |
-[Dashboard Filmes](https://github.com/jnascimentocode/AluraChallengeBI) | Power BI |
-[Dashboard Restaurantes](https://github.com/jnascimentocode/Alura-Foods) | Power BI | 
+[Dashboard Cotação Dolar](https://github.com/jnascimentocode/Cota-o-Dolar-PBI-com-API) | Power BI
+[Dashboard Sellout](https://github.com/jnascimentocode/SellOut-SQL-PBI) | Excel, SQL Server, Power BI
+[Dashboard Vendas no Excel](https://github.com/jnascimentocode/DashBoard_Vendas) | Excel, Power Query, Power Pivot
+[Dashboard Vendas](https://github.com/jnascimentocode/Dashboard-Vendas-Excel) | Excel, Power Query, Power Pivot
+[Seazone](https://github.com/jnascimentocode/desafio-data-science) | Python/Pandas/PlotlyExpress
+[Dashboard Filmes](https://github.com/jnascimentocode/AluraChallengeBI) | Power BI
+[Dashboard Restaurantes](https://github.com/jnascimentocode/Alura-Foods) | Power BI 
 
 
 ##
