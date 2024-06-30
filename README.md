@@ -31,13 +31,16 @@ Trabalho como Analista de Dados.
 ### 🖥️ Alguns dos meus Projetos em Análise de dados: 
 Projeto | Linguagem/Ferramenta
  :---: |:---:
-[Seazone](https://github.com/jnascimentocode/desafio-data-science) | Python/Pandas/PlotlyExpress
-[Desafio BI ALURA S1](https://github.com/jnascimentocode/AluraChallengeBI) | Power BI
-[Desafio BI ALURA S2](https://github.com/jnascimentocode/Alura-Foods) | Power BI
-[Extração de dados API OData ](https://github.com/jnascimentocode/Cota-o-Dolar-PBI-com-API) | Power BI
-[Teste de Conexão Excel+SQL+PBI](https://github.com/jnascimentocode/SellOut-SQL-PBI) | Excel, SQL Server, Power BI
-[Dashboard com Power Pivot](https://github.com/jnascimentocode/DashBoard_Vendas) | Excel, Power Query, Power Pivot
-[Dashboard Excel](https://github.com/jnascimentocode/Dashboard-Vendas-Excel) | Excel, Power Query, Power Pivot
+[Dashboard Cotação Dolar](https://github.com/jnascimentocode/Cota-o-Dolar-PBI-com-API) | Power BI |
+[Dashboard Sellout](https://github.com/jnascimentocode/SellOut-SQL-PBI) | Excel, SQL Server, Power BI |
+[Dashboard Vendas no Excel](https://github.com/jnascimentocode/DashBoard_Vendas) | Excel, Power Query, Power Pivot |
+[Dashboard Vendas](https://github.com/jnascimentocode/Dashboard-Vendas-Excel) | Excel, Power Query, Power Pivot |
+[Dashboard Filmes](https://github.com/jnascimentocode/AluraChallengeBI) | Power BI |
+[Dashboard Restaurantes](https://github.com/jnascimentocode/Alura-Foods) | Power BI | 
+[Analise Data Science](https://github.com/jnascimentocode/desafio-data-science) | Python/Pandas/PlotlyExpress |
+[Gerador de Senhas](https://github.com/jnascimentocode/password-generator) | Python/PySimpleGUI |
+[Previsão do Tempo](https://github.com/jnascimentocode/previsao_tempo) | Python/PySimpleGUI/Geopy |
+[Calculadora IMC](https://github.com/jnascimentocode/calculadora-IMC-PysimpleGUI) | Python |
 
 ##
 ### ✉ Como me encontrar:
