@@ -16,9 +16,7 @@ Trabalho como Analista de Dados.
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" title = "VsCode"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
-
+          
 </br>
 </br>
 <div display="inline-block">
@@ -31,6 +29,7 @@ Trabalho como Analista de Dados.
 ### 🖥️ Alguns dos meus Projetos: 
 Projeto | Linguagem/Ferramenta
  :---: |:---:
+[Dashboard Contratos](https://github.com/jnascimentocode/Dashboard_Contratos) | Power BI |
 [Dashboard Cotação Dolar](https://github.com/jnascimentocode/Cota-o-Dolar-PBI-com-API) | Power BI |
 [Dashboard Sellout](https://github.com/jnascimentocode/SellOut-SQL-PBI) | Excel, SQL Server, Power BI |
 [Dashboard Vendas no Excel](https://github.com/jnascimentocode/DashBoard_Vendas) | Excel, Power Query, Power Pivot |
