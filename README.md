@@ -20,7 +20,6 @@ Trabalho como Analista de Dados.
 </br>
 </br>
 <div display="inline-block">
- <p align="left">📚 Atualmente estudando Data Science</p>
  <p align="left">🎮🎞🍲 Gosto muito de filmes, games, cozinhar e tenho uma paixão por animais!</p>
 </div>
 
