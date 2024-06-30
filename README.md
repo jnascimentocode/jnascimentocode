@@ -32,13 +32,12 @@ Trabalho como Analista de Dados Jr.
 Projeto | Linguagem/Ferramenta | Título 
  :---: |:---: |:---: |
 [Seazone](https://github.com/jnascimentocode/desafio-data-science) | Python/Pandas/PlotlyExpress | Desafio Data Science - Airbnb
-[Pokedex](https://github.com/jnascimentocode/analise-pokedex)|  Python/Pandas/PlotlyExpress | Pokémon - Analisando a Pokedex
-[Desafio BI ALURA S1](https://github.com/jnascimentocode/AluraChallengeBI) | Power BI | AluraChallengeBI - Alura Filmes IMDB
-[Desafio BI ALURA S2](https://github.com/jnascimentocode/Alura-Foods) | Power BI | AluraChallengeBI - Alura Foods
-[Extração de dados API OData ](https://github.com/jnascimentocode/Cota-o-Dolar-PBI-com-API) | Power BI | Cotação do Dolar com atualização via API
-[Teste de Conexão Excel+SQL+PBI](https://github.com/jnascimentocode/SellOut-SQL-PBI) | Excel, SQL Server, Power BI | Dash SellOut Empresa Fictícia
-[Dashboard com Power Pivot](https://github.com/jnascimentocode/DashBoard_Vendas) | Excel, Power Query, Power Pivot | DashBoard Vendas Empresa Fictícia
-[Dashboard Excel](https://github.com/jnascimentocode/Dashboard-Vendas-Excel) | Excel, Power Query, Power Pivot | DashBoard Vendas Empresa de Celulares
+[Dashboard Filmes](https://github.com/jnascimentocode/AluraChallengeBI) | Power BI | AluraChallengeBI - Alura Filmes IMDB
+[Dashboard Restaurantes](https://github.com/jnascimentocode/Alura-Foods) | Power BI | AluraChallengeBI - Alura Foods
+[Dashboard Cotação Dolar](https://github.com/jnascimentocode/Cota-o-Dolar-PBI-com-API) | Power BI | Cotação do Dolar com atualização via API
+[Dashboard Sellout](https://github.com/jnascimentocode/SellOut-SQL-PBI) | Excel, SQL Server, Power BI | Dash SellOut Empresa Fictícia
+[Dashboard Vendas no Excel](https://github.com/jnascimentocode/DashBoard_Vendas) | Excel, Power Query, Power Pivot | DashBoard Vendas Empresa Fictícia
+[Dashboard Vendas](https://github.com/jnascimentocode/Dashboard-Vendas-Excel) | Excel, Power Query, Power Pivot | DashBoard Vendas Empresa de Celulares
 
 
 ##
