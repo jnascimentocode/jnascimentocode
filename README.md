@@ -28,7 +28,7 @@ Trabalho como Analista de Dados.
 
 ##
 
-### 🖥️ Alguns dos meus Projetos em Análise de dados: 
+### 🖥️ Alguns dos meus Projetos: 
 Projeto | Linguagem/Ferramenta
  :---: |:---:
 [Dashboard Cotação Dolar](https://github.com/jnascimentocode/Cota-o-Dolar-PBI-com-API) | Power BI |
